@@ -1,5 +1,6 @@
 # Predicting Airbnb New User Booking Destination
 ## by Aya Abulnasr
+https://medium.com/@aya.abulnasr/predicting-your-next-destination-country-for-airbnb-3355ae90b8e4
 
 
 ## Dataset
